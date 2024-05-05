@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/master-node/Downloads/230736118",
+      "program": "/Users/master-node/Downloads/230736118/build/Debug/outDebug"
+    }
+  ]
+}
